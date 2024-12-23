@@ -29,7 +29,6 @@
     <a href="https://github.com/kingqaquuu"><img src="https://img.shields.io/badge/GitHub-transparent-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/kingqaquuu"><img src="https://img.shields.io/badge/Gitee-transparent-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://space.bilibili.com/100669378"><img src="https://img.shields.io/badge/哔哩哔哩-我就是kingqaquuu-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@kingqaquuu"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/kingqaquuu"><img src="https://komarev.com/ghpvc/?username=kingqaquuu&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
