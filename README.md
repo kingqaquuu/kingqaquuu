@@ -1,38 +1,40 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+kingqaquuu....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h3 align="center">🤗About Me</h3>
+
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20kingqaquuu&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+  🔬 Hi, I'm kingqaquuu, Senior in HUST & Software Engineer from PRC
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build My own blog with SpringBoot
+  <br>
+  📫 How to reach me: <a href="mailto: kingqaquuu@gmail.com">kingqaquuu@gmail.com</a>
 </p>
+
+<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
+
 <p align="center">
-    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" alt="Hello World" title="Hello World"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,discord,git,github,gmail,idea,clion,vscode,kubernetes,linux,md,mysql,notion,obsidian,postman,qt,ubuntu&perline=10" />
+  </a>
 </p>
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=kingqaquuu&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-</p>
-<p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=kingqaquuu&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
-</p>
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=kingqaquuu&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-</p>
-<p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,py,md,kubernetes,linux,vscode&titles=true" alt="Skill Icons" title="Skill Icons">
-</p>
+
+<h3 align="center">⚡ Stats ⚡</h3>
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=kingqaquuu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingqaquuu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+<h3 align="center">☎️ My Other Page☎️</h3>
+
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/kingqaquuu"><img src="https://img.shields.io/badge/GitHub-transparent-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/kingqaquuu"><img src="https://img.shields.io/badge/Gitee-transparent-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://github.com/kingqaquuu"><img src="https://img.shields.io/badge/GitHub-kingqaquuu-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gitee.com/kingqaquuu"><img src="https://img.shields.io/badge/Gitee-kingqaquuu-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://space.bilibili.com/100669378"><img src="https://img.shields.io/badge/哔哩哔哩-kingqaquuu-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/kingqaquuu"><img src="https://komarev.com/ghpvc/?username=kingqaquuu&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <a href="https://discordapp.com/users/922652886314393621"><img src="https://img.shields.io/badge/Discord-kingqaquuu-blue?logo=Discord" alt="Discord" title="Discord" /></a>
 </p>
-<p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
-</p>
+
